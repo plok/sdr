@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 libsdr = { git = "https://github.com/plok/libsdr" }
+gtk4 = "0.4.6"
+
